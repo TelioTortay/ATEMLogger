@@ -4,10 +4,10 @@
 
 ## Features
 
-- **ATEM Video Input Tracking**: Connects directly to ATEM consoles over a local network to monitor video inputs in real-time.
-- **HyperDeck Timecode Capture**: Captures live playback timecodes from HyperDeck devices to track program changes and generate detailed logs.
+- **ATEM Video Input Tracking**: Connects directly to ATEM devices over a local network to track program changes and generate detailed logs.
+- **HyperDeck Timecode Capture**: Captures live playback timecodes from HyperDeck devices.
 - **EDL File Generation**: Automatically exports logs and data into professional Edit Decision List (EDL) files, including source information, start and end times, and durations of each cut.
-- **Frame Compensation Management**: Adjusts timecodes to compensate for synchronization differences, ensuring precise recordings even with multiple sources or delays.
+- **Frame Compensation Management**: Adjusts timecodes to compensate for synchronization differences, ensuring precise recordings even with delays.
 
 ## Installation
 
