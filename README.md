@@ -15,3 +15,7 @@
 - **Windows, macOS, or Linux** (any modern version)
 - **ATEM Device** (for video input tracking)
 - **HyperDeck Device** (for timecode capture)
+
+### Librairies
+- **PyQt6**
+- **PyATEMMax**
